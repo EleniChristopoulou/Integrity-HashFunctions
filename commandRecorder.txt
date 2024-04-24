@@ -1,0 +1,2 @@
+Go east 2 miles
+Go south 1 mile

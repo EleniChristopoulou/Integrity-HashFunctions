@@ -1,0 +1,6 @@
+Go east 2 miles
+ce021dbb248ccacf6c27ee7945781217dd02d417bee60e1e9525faee373ddfa0
+
+Go south 1 mile
+41b2064e56105ef36786c5f02fe56cc2aaa405b5a714a332d59c34ae08647aa1
+
