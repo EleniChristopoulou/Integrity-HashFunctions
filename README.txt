@@ -13,6 +13,7 @@ The txt file with the name of 'inbetween' is representing the a place in between
 Utilising the hash256 function, keeps the integrity of the command due to tehnical mistake along the way that altered the command
 
 This can be seen when altering the last line of txt file terminal prints error and therefore command is rejected not entering the commandRecorder.txt file.
+In the scenario commander is being informed about the situation through the txt file 'feedback.txt'.
 
 
 It should be noted that in the case of an active man in the middle who passes a successful message along with its own hash, the system will not reject the message thus he has the ability to control the receiver!
